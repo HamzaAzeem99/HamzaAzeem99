@@ -1,4 +1,4 @@
-# Assalam - u - Alaikum
+# Hi 👋, I'm Hamza Azeem
 👤 About Me<br><br>I am a passionate developer who enjoys building web applications and learning new technologies. I love turning ideas into real-world projects and continuously improving my skills in software development.<br><br>💻 Currently working on improving my full-stack development skills  <br>🌱 Learning React and modern frameworks<br>🚀 Interested in building scalable and user-friendly applications  <br>📫 Reach me at: muhammadhamzamuhammadazeem@gmail.com
 
 
