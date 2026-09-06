@@ -1,90 +1,248 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8,19&height=220&section=header&text=Hi%20👋,%20I'm%20Hamza%20Azeem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20React%20Enthusiast&descSize=16&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0b2e,100:00ff9c&height=220&section=header&text=HAMZA%20AZEEM&fontSize=60&fontColor=00ff9c&fontAlignY=38&animation=twinkling&desc=root%40hamza%3A~%23%20whoami&descAlignY=58&descSize=18&descColor=00e5ff" width="100%"/>
 
-  <p align="center">
-    <a href="https://discord.gg/hamzaazeem99"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://instagram.com/hamzavibe99"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/muhammad-hamza-885b11386"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://youtube.com/@hamzacodeacademy"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-    <a href="mailto:muhammadhamzamuhammadazeem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM...;WHOAMI%3A+HAMZA_AZEEM;MERN+STACK+DEVELOPER;AI+FILM+MAKER;GAME+DEVELOPER;ACCESS+LEVEL%3A+ROOT;BUILDING+THE+FUTURE..." />
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&logo=matrix&logoColor=black"/>
+<img src="https://img.shields.io/badge/UPTIME-24%2F7-8a2be2?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEV-00e5ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-CYBERPUNK-ff00ff?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=HamzaAzeem99&style=for-the-badge&color=00ff9c&label=INTRUDERS+DETECTED"/>
+
+<br><br>
+
+```
+root@hamza-machine:~$ ./boot_sequence.sh
+[OK] Loading skills.dll ................ done
+[OK] Mounting creativity partition ...... done
+[OK] Establishing uplink to GitHub ...... done
+[OK] System ready. Welcome, operator.
+```
+
+**`CODE → CREATE → BREAK → FIX → REPEAT`**
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## `0x01 // SYSTEM_PROFILE`
 
 <table align="center">
-  <tr>
-    <td>
-      I am a passionate developer who enjoys building web applications and learning new technologies. I love turning ideas into real-world projects and continuously improving my skills in software development.<br><br>
-      🔭 <b>Currently working on:</b> Improving my full-stack development skills<br>
-      🌱 <b>Learning:</b> React and modern frameworks<br>
-      🚀 <b>Interests:</b> Building scalable and user-friendly applications<br>
-      📫 <b>How to reach me:</b> muhammadhamzamuhammadazeem@gmail.com
-    </td>
-  </tr>
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+identity:
+  callsign:       Hamza Azeem
+  clearance:      Root Access
+  role:           MERN Stack Developer
+  frontend:       React / JavaScript / Tailwind
+  backend:        Node.js / Express
+  database:       MongoDB / Firebase / Supabase
+  game_dev:       Scratch / Retro Games / Three.js
+  creative_ops:   AI Films / Cartoons / Canva
+  environment:    VS Code / Git / GitHub / Postman
+  current_mission: "BUILD SOMETHING CRAZY"
+  status:         COMPILING IDEAS INTO REALITY
+```
+
+> 👋 **Hey, I'm Hamza.**
+> I build websites, applications, games and creative digital
+> experiments — then break them, fix them, and build them again, better.
+> Currently obsessed with turning weird ideas into real, working projects.
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/HamzaAzeem99/HamzaAzeem99/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>🐍 live contribution feed</sub>
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## `0x02 // SKILL_MATRIX`
 
-<p align="center">
-  <!-- Frontend & Styling -->
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
-  <br>
+<div align="center">
 
-  <!-- Frameworks & Libs -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+### ⚡ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=00ff9c)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  <br>
+### 🧠 Backend & Database
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
-  <!-- Version Control & Hosting -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  
-  <br>
+### 🛠️ Tools & Ops
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-  <!-- Other Tools & Platforms -->
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" />
-  <img src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" />
-  <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats & Metrics
+## `0x03 // ACTIVE_PROJECTS`
+
+```bash
+root@hamza:~$ ./scan_projects.sh --deep
+
+[✓] Every Code Share ............... ACTIVE
+[✓] Digital Detective Dashboard ..... ACTIVE
+[✓] Gaming Zone ..................... ACTIVE
+[✓] Real-Time Web Chat .............. ACTIVE
+[✓] Student Management API .......... ACTIVE
+[✓] AI Film Projects ................ IN PROGRESS
+[✓] Retro Game Projects ............. IN PROGRESS
+
+SCAN COMPLETE. 7/7 modules online.
+```
+
+<table align="center" width="100%">
+<tr>
+<td width="50%">
+
+### 🚀 `Every Code Share`
+A platform for sharing code and text snippets with a clean, developer-focused interface.
+
+</td>
+<td width="50%">
+
+### 🕵️ `Digital Detective Dashboard`
+Analyzes publicly available technical info — IP, URL, and device metadata — for developers.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎮 `Gaming Zone`
+A collection of browser-based gaming experiments and retro-game builds.
+
+</td>
+<td width="50%">
+
+### 💬 `Real-Time Web Chat`
+A live chat app built for instant, low-latency messaging between users.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `0x04 // GITHUB_INTELLIGENCE` <sub>[LIVE FEED]</sub>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.shion.dev/api?username=HamzaAzeem99&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></td>
-      <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamzaAzeem99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
-    </tr>
-  </table>
-  <img src="https://streak-stats.demolab.com/?user=HamzaAzeem99&theme=dark&hide_border=false" width="100%" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HamzaAzeem99&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAzeem99&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=HamzaAzeem99&theme=matrix&hide_border=true&background=00000000&ring=00ff9c&fire=ff00ff&currStreakLabel=00ff9c"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaAzeem99&bg_color=00000000&color=00ff9c&line=00ff9c&point=00e5ff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## `0x05 // CURRENT_MISSION`
+
+```javascript
+const hamza = {
+  role: "MERN Stack Developer",
+
+  learning: [
+    "Advanced React",
+    "Node.js & Express.js",
+    "MongoDB",
+    "REST & Real-Time APIs",
+    "Three.js / WebGL",
+    "AI Tools"
+  ],
+
+  building: [
+    "Web Applications",
+    "Developer Tools",
+    "Games",
+    "AI Films",
+    "Creative Projects"
+  ],
+
+  currentFocus: () => "3D web experiences + real-time systems",
+
+  mindset: "BUILD > LEARN > EXPERIMENT",
+};
+
+console.log(`> ${hamza.role} :: mission active`);
+```
+
+---
+
+## `0x06 // UPLINK // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/HamzaAzeem99">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff9c"/>
+</a>
+<a href="https://linkedin.com/in/muhammad-hamza-885b11386">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
+</a>
+<a href="https://instagram.com/hamzavibe99">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff00ff"/>
+</a>
+<a href="https://youtube.com/@hamzacodeacademy">
+<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=ff0033"/>
+</a>
+<a href="mailto:muhammadhamzamuhammadazeem@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff9c"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HamzaAzeem99&icon=0&color=0&label=Profile+Views" />
+
+```
+╭──────────────────────────────────────────────╮
+│                                                │
+│   ███╗   ███╗ █████╗ ███████╗ █████╗          │
+│   ████╗ ████║██╔══██╗╚══███╔╝██╔══██╗         │
+│   ██╔████╔██║███████║  ███╔╝ ███████║         │
+│   ██║╚██╔╝██║██╔══██║ ███╔╝  ██╔══██║         │
+│   ██║ ╚═╝ ██║██║  ██║███████╗██║  ██║         │
+│                                                │
+│   >>> ACCESS GRANTED. WELCOME BACK. <<<       │
+│         KEEP CODING. KEEP BUILDING.           │
+│                                                │
+╰──────────────────────────────────────────────╯
+```
+
+**`Made with 💻 + ☕ + curiosity by Hamza Azeem`**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d0221&height=100&section=footer" width="100%"/>
+
 </div>
