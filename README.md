@@ -2,19 +2,19 @@
 
 # ⚡ HAMZA AZEEM
 
-### `MERN STACK DEVELOPER • CREATOR • BUILDER`
+### Frontend Developer | MERN Stack Developer | AI & Game Creator
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;REACT+DEVELOPER;MERN+STACK+DEVELOPER;GAME+DEVELOPER;AI+FILM+MAKER;BUILDING+COOL+THINGS..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=750&lines=BUILDING+REAL-WORLD+WEB+APPS;REACT+%7C+NODE.JS+%7C+MONGODB;SUPABASE+%7C+REST+APIs+%7C+DATABASES;GAME+DEVELOPER+%7C+AI+CREATOR;LEARNING+%E2%86%92+BUILDING+%E2%86%92+IMPROVING" />
 
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9C?style=for-the-badge&logo=matrix&logoColor=black"/>
-<img src="https://img.shields.io/badge/MERN-STACK-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-00E5FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BUILD-MODE-8A2BE2?style=for-the-badge"/>
 
 <br><br>
 
-> **Turning ideas into code, projects into experiences.**
+> **Turning ideas into code, and code into real-world experiences.**
 
 </div>
 
@@ -24,34 +24,50 @@
 
 ## 🧑‍💻 ABOUT ME
 
-I'm **Hamza Azeem**, a developer who loves building
-web applications, games, creative projects and experimenting with AI.
-
-I enjoy learning by **building real projects** instead of just watching tutorials.
-
-<br>
-
-`CODE` → `CREATE` → `LEARN` → `BUILD` → `REPEAT`
-
 </div>
+
+I'm **Hamza Azeem**, a **Frontend Developer and MERN Stack Developer** passionate about building modern web applications, responsive interfaces, and creative digital experiences.
+
+I work with **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and Supabase**, while continuously exploring AI tools, game development, and creative technologies.
+
+I enjoy learning by **building real projects**, solving problems, and turning ideas into functional experiences.
+
+```text
+CODE → CREATE → LEARN → BUILD → REPEAT
+````
 
 ---
 
 <div align="center">
 
-## ⚡ TECH ARSENAL
+## ⚡ TECH STACK
 
-### `FRONTEND`
+### FRONTEND
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite" />
 
-### `BACKEND & DATABASE`
+### BACKEND & DATABASE
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
 
-### `TOOLS`
+### TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,python" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Thunder%20Client-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-00E5FF?style=for-the-badge"/>
+
+### CREATIVE & OTHER SKILLS
+
+<img src="https://img.shields.io/badge/Teachable%20Machine-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scratch-FFAB19?style=for-the-badge&logo=scratch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva%20Designing-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Verified-1BA0D7?style=for-the-badge"/>
 
 </div>
 
@@ -65,28 +81,25 @@ I enjoy learning by **building real projects** instead of just watching tutorial
 <tr>
 <td align="center" width="33%">
 
-### 🌐 WEB APPS
+### 🌐 WEB APPLICATIONS
 
-Modern responsive websites
-and full-stack applications.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🎮 GAMES
-
-Browser games,
-retro experiments & 3D projects.
+Responsive websites, dashboards, CRUD systems, and full-stack applications.
 
 </td>
 
 <td align="center" width="33%">
 
-### 🤖 AI + CREATIVE
+### 🤖 AI & CREATIVE
 
-AI films, cartoons,
-visual concepts & experiments.
+AI-powered experiments, creative tools, films, cartoons, and visual concepts.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎮 GAME DEVELOPMENT
+
+Browser games, retro experiments, Scratch projects, and Roblox Studio creations.
 
 </td>
 </tr>
@@ -100,19 +113,80 @@ visual concepts & experiments.
 
 ## 🔥 FEATURED PROJECTS
 
-<a href="https://github.com/HamzaAzeem99">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HamzaAzeem99&repo=Gaming-Zone&theme=dark&hide_border=true&bg_color=00000000"/>
-
-</a>
-
 </div>
+
+### 🛍️ MJ Mayon Collection
+
+**First Client Project**
+
+A professional web experience built for a real client, focusing on responsive frontend design, user experience, and database integration.
+
+🌐 **Live Demo:** [mjmayoncollection.vercel.app](https://mjmayoncollection.vercel.app/)
+
+---
+
+### 🤖 FITPLAN AI
+
+**AI-Powered Web Application**
+
+An AI-focused web project exploring modern frontend development, interactive user experiences, and database integration.
+
+🌐 **Live Demo:** [fitplan-ai-main.vercel.app](https://fitplan-ai-main.vercel.app/)
+
+---
+
+### 💻 Every Code Share
+
+**React + Supabase**
+
+A platform for sharing code and text publicly, featuring a modern frontend and Supabase-powered functionality.
+
+🌐 **Live Demo:** [everycodeshare.netlify.app](https://everycodeshare.netlify.app/)
+
+---
+
+### 🏢 Employee Management System
+
+**CRUD Web Application**
+
+A management system featuring employee data handling, including adding, editing, and deleting records.
+
+🌐 **Live Demo:** [hccompany.netlify.app](https://hccompany.netlify.app/)
+
+---
+
+### ✨ Glow Editor
+
+**HTML / CSS / JavaScript**
+
+A browser-based code editor with live preview functionality, built to experiment with frontend development and interactive tools.
+
+🌐 **Live Demo:** [gloweditor.netlify.app](https://gloweditor.netlify.app/)
 
 ---
 
 <div align="center">
 
-## 📊 GITHUB INTELLIGENCE
+## 🧠 CURRENTLY LEARNING & BUILDING
+
+</div>
+
+```text
+[✓] React & Modern Frontend Development
+[✓] Node.js & Express
+[✓] MongoDB & Supabase
+[✓] REST APIs & Database Integration
+[✓] Full-Stack Web Applications
+[✓] AI-Powered Experiences
+[✓] Game Development
+[→] Building More Real-World Projects
+```
+
+---
+
+<div align="center">
+
+## 📊 GITHUB STATS
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=HamzaAzeem99&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
@@ -128,7 +202,7 @@ visual concepts & experiments.
 
 <div align="center">
 
-## 🧬 CONTRIBUTION MATRIX
+## 🧬 CONTRIBUTION ACTIVITY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaAzeem99&bg_color=00000000&color=00ff9c&line=00ff9c&point=00e5ff&area=true&hide_border=true" width="95%"/>
 
@@ -138,35 +212,9 @@ visual concepts & experiments.
 
 <div align="center">
 
-## 🐍 ACTIVITY SCAN
+## 🐍 CONTRIBUTION SNAKE
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 CURRENTLY BUILDING
-
-```text
-╔══════════════════════════════════════╗
-║                                      ║
-║       SYSTEM STATUS : ONLINE         ║
-║                                      ║
-║   [✓] React                          ║
-║   [✓] Node.js                        ║
-║   [✓] MongoDB                        ║
-║   [✓] APIs                           ║
-║   [✓] Game Development               ║
-║   [✓] AI Experiments                 ║
-║                                      ║
-║       MISSION: BUILD SOMETHING       ║
-║                 AWESOME              ║
-║                                      ║
-╚══════════════════════════════════════╝
-```
 
 </div>
 
